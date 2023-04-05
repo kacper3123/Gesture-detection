@@ -1,1 +1,2 @@
-"# https-github.com-kacper3123-Gesture-detection-in-real-time-TensorFlow" 
+python -m venv venv // Create virtual enviroment python=3.9.6
+
